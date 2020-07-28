@@ -1,3 +1,9 @@
+---
+layout: page
+title: Invited Talks
+permalink: /invite_talks/
+---
+
 We are pleased to announce the following invited talks.
 
 - Gary Marcus, CEO & Founder, Robust.ai
