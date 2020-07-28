@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /
 ---
 
 Advances in Cognitive Systems (ACS) 2020 will by held virtually **August 10-12, 2020**. Registration is now [open](https://docs.google.com/forms/d/e/1FAIpQLScSjkOpmMFlC4ky0EJuMif9MkNUTDM8i5paJ4Q3SmAl6Rh9hQ/viewform?vc=0&c=0&w=1). There is no registration fee. We will contact all registered participants in the week before the conference with information regarding conference technology and logistics. In the meantime, check back for updates to the schedule.
