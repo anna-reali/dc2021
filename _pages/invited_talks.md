@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Invited Talks
-permalink: /invited_talks/
+permalink: /talks/
 ---
 
 We are pleased to announce the following invited talks.
