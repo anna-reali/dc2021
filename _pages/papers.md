@@ -36,11 +36,11 @@ This page is still being updated.
 - [Complexity of Agents in Non-stationary Environments: A Partial Computational Model]({{ site.baseurl }}/data/ACS2020_paper_37.pdf).Vadim Bulitko and Valeriy K. Bulitko.
 - [OntoAgent: Implementing Content-Centric Cognitive Models]({{ site.baseurl }}/data/ACS2020_paper_16.pdf).Jesse English and Sergei Nirenburg.
 - [Instructing a Cognitive Agent to Perform Sensemaking in Intelligence, Surveillance and Reconnaissance]({{ site.baseurl }}/data/ACS2020_paper_39.pdf). Gheorghe Tecuci, Dorin Marcu, Mihai Boicu and Louis Kaiser.
-- Learning Hierarchical Task Networks with Landmarks and Numeric Fluents by Combining Symbolic and Numeric Regression.Morgan Fine-Morris, Bryan Auslander, Michael W. Floyd, Greg Pennisi, Héctor Muñoz-Avila and Kalyan Moy Gupta. 
-- A Measure of Visuospatial Skills: Painting the Big Picture.	Joel Michelson, Deepayan Sanyal, James Ainooson and Maithilee Kunda. 
-- Integrating Declarative Long-Term Memory Retrievals into Reinforcement Learning. Justin Li.
-- Toward Givenness Hierarchy Theoretic Natural Language Generation. Poulomi Pal and Tom Williams.
-- Computing Numeric Expectations for Cognitive Agents. Noah Reifsnyder and Hector Munoz-Avila. 
+- [Learning Hierarchical Task Networks with Landmarks and Numeric Fluents by Combining Symbolic and Numeric Regression]({{ site.baseurl }}/data/ACS2020_paper_8.pdf). Morgan Fine-Morris, Bryan Auslander, Michael W. Floyd, Greg Pennisi, Héctor Muñoz-Avila and Kalyan Moy Gupta. 
+- [A Measure of Visuospatial Skills: Painting the Big Picture]({{ site.baseurl }}/data/ACS2020_paper_20.pdf).	Joel Michelson, Deepayan Sanyal, James Ainooson and Maithilee Kunda. 
+- [Integrating Declarative Long-Term Memory Retrievals into Reinforcement Learning]({{ site.baseurl }}/data/ACS2020_paper_35.pdf). Justin Li.
+- [Toward Givenness Hierarchy Theoretic Natural Language Generation]({{ site.baseurl }}/data/ACS2020_paper_4.pdf). Poulomi Pal and Tom Williams.
+- [Computing Numeric Expectations for Cognitive Agents]({{ site.baseurl }}/data/ACS2020_paper_12.pdf). Noah Reifsnyder and Hector Munoz-Avila. 
 - General Intelligence Requires Autonomous, Cognitive, Intentional Agents. Sean Kugele and Stan Franklin. 
 - Forgetting-Sensitive Referring Expression Generation for Integrated Robot Architectures. Tom Williams, Torin Johnson, Will Culpepper and Kellyn Larson. 
 - Dempster-Shafer Theoretic Learning of Indirect Speech Act Comprehension Norms. Ruchen Wen, Mohammed Aun Siddiqui and Thomas Williams. 
