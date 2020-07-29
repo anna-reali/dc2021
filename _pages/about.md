@@ -10,16 +10,16 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2020/). 
 
 ## Program Chairs
 
-- Matthew Klenk, Palo Alto Research Center
-- Shiwali Mohan, Palo Alto Research Center
+- [Matthew Klenk](http://www.matthewklenk.com/), Palo Alto Research Center
+- [Shiwali Mohan](www.shiwali.me), Palo Alto Research Center
 
 ## Fundraising Chair
 
-- Nate Derbinsky, Northeastern University
+- [Nate Derbinsky](https://www.khoury.northeastern.edu/people/nate-derbinsky/), Northeastern University
 
 ## Social Media Chair
 
-- Tom Williams, Colorado School of Mines
+- [Tom Williams](https://people.mines.edu/twilliams/), Colorado School of Mines
 
 ## Organizing Committee
 
