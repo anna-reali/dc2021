@@ -13,15 +13,11 @@ For additional information (e.g., application procedures) please refer to the ca
 
 
 ### Important dates
-|Applications due|September 18, 2020|
-|:---------------| ----------------:| 
-| Acceptance Notifications|October 16, 2020|
-| Camera-Ready Due| November 20, 2020|
-| Doctoral Consortium|February 2-3, 2021|
-| AAAI-21|February 4-9, 2021|
-
 
 | Event       | Date     | Resource     |
 | :------------- | :----------: | -----------: |
 |  Applications due | September 18, 2020  |    |
 |  Acceptance notifications | October 16, 2020 | |
+|  Camera-read due | November 20, 2020 | |
+|  Doctoral consortium | February 2-3, 2021 | |
+|  AAAI-21 | February 4-9, 2021 | |
