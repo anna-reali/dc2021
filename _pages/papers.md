@@ -28,7 +28,7 @@ This page is still being updated.
 
 
 
-## Poster talks
+## Posters
 - [Policy Regression for Monitoring Execution in Goal Reasoning Systems]({{ site.baseurl }}/data/ACS2020_paper_11.pdf). Noah Reifsnyder and Hector Munoz-Avila.
 - [Enabling Morally Sensitive Robotic Clarification Requests]({{ site.baseurl }}/data/ACS2020_paper_6.pdf). Ryan Blak Jackson and Tom Williams.
 - [Coordination in Homogeneous and Heterogeneous Teams]({{ site.baseurl }}/data/ACS2020_paper_27.pdf). Othalia Larue, Ion Juvina, Michael Cox, Matt Molineaux, Brue Howard, Eric Nichols, and Brad Minnery.
