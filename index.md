@@ -19,3 +19,9 @@ For additional information (e.g., application procedures) please refer to the ca
 | Camera-Ready Due: | November 20, 2020 |
 | Doctoral Consortium | February 2-3, 2021 |
 | AAAI-21 | February 4-9, 2021|
+
+
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
