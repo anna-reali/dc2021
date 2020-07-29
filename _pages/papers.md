@@ -6,7 +6,7 @@ permalink: /papers/
 This page is still being updated.
 
 ## Long talks
-- The Problem with Problems. Michael Cox. [paper]({{ site.baseurl }}(/data/ACS2020_paper_1.pdf)
+- The Problem with Problems. Michael Cox. [paper]({{ site.baseurl }}/data/ACS2020_paper_1.pdf)
 - [A Broader Range for 'Meaning the Same Thing': Human Against Machine on Hard Paraphrase Detection Tasks]({{ site.baseurl }}/data/ACS2020_paper_28.pdf). Jamie Macbeth, Ella Chang, Yining Hua, Gin Chen, Sandra Grandic, and Winnie Zheng.
 - [Goal Elicitation Planning: Reasoning and Acting to Reveal Another Agent's Goal]({{ site.baseurl }}/data/ACS2020_paper_2.pdf). Adam Amos-Binks and Rogelio E.Cardona-Rivera.
 - [Characterizing an Analogical Concept Memory for Architectures Implementing the Common Model of Cognition]. Shiwali Mohan, Matthew Klenk, Matthew Shreve, Kent Evans, Aaron Ang, and John Maxwell.
@@ -18,11 +18,16 @@ This page is still being updated.
 - [Learning Hybrid Models for Variable Impedance Control of Changing-Contact Manipulation Tasks]({{ site.baseurl }}/data/ACS2020_paper_30.pdf). Saif Sidhik, Mohan Sridharan, and Dirk Ruiken.
 
 
+
 ## Short talks
 - [System-wide Monitoring for Anomaly Detection]({{ site.baseurl }}/data/ACS2020_paper_41.pdf). Leilani Gilpin.
 - [Quotation for Real-Time Metacognition]({{ site.baseurl }}/data/ACS2020_paper_18.pdf). Matthew D. Goldberg, Darsana Josyula, and Don Perlis.
+- [Model-Based Novelty Adaptation]({{ site.baseurl }}/data/ACS2020_paper_10.pdf). Matt Klenk, Wiktor Piotrowski,and Roni Stern.
+- [The CREDO Stack: From Theory to Parctice in Cognitive Systems Design]({{ site.baseurl }}/data/ACS2020_paper_9.pdf). John Fox.
+
 
 
 ## Poster talks
 - [Policy Regression for Monitoring Execution in Goal Reasoning Systems]({{ site.baseurl }}/data/ACS2020_paper_11.pdf). Noah Reifsnyder and Hector Munoz-Avila.
+- [Enabling Morally Sensitive Robotic Clarification Requests]({{ site.baseurl }}/data/ACS2020_paper_6.pdf). Ryan Blak Jackson and Tom Williams.
 
