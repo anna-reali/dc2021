@@ -21,6 +21,7 @@ For additional information (e.g., application procedures) please refer to the ca
 | AAAI-21|February 4-9, 2021|
 
 
-| Column 1       | Column 2     | Column 3     |
+| Event       | Date     | Resource     |
 | :------------- | :----------: | -----------: |
-|  Applications due | September 18, 2020  | And Again    |
+|  Applications due | September 18, 2020  |    |
+|  Acceptance notifications | October 16, 2020 | |
