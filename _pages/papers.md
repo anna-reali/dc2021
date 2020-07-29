@@ -31,4 +31,26 @@ This page is still being updated.
 ## Poster talks
 - [Policy Regression for Monitoring Execution in Goal Reasoning Systems]({{ site.baseurl }}/data/ACS2020_paper_11.pdf). Noah Reifsnyder and Hector Munoz-Avila.
 - [Enabling Morally Sensitive Robotic Clarification Requests]({{ site.baseurl }}/data/ACS2020_paper_6.pdf). Ryan Blak Jackson and Tom Williams.
+- [Coordination in Homogeneous and Heterogeneous Teams]({{ site.baseurl }}/data/ACS2020_paper_27.pdf). Othalia Larue, Ion Juvina, Michael Cox, Matt Molineaux, Brue Howard, Eric Nichols, and Brad Minnery.
+- [Modeling Gestalt Visual Reasoning on Raven's progressive Matrices Using Generative Image Inpainting Techniques]({{ site.baseurl }}/data/ACS2020_paper_29.pdf). Tianyu Hua and Maithilee Kunda.
+- [Complexity of Agents in Non-stationary Environments: A Partial Computational Model]({{ site.baseurl }}/data/ACS2020_paper_37.pdf).Vadim Bulitko and Valeriy K. Bulitko.
+- [OntoAgent: Implementing Content-Centric Cognitive Models]({{ site.baseurl }}/data/ACS2020_paper_16.pdf).Jesse English and Sergei Nirenburg.
+- [Instructing a Cognitive Agent to Perform Sensemaking in Intelligence, Surveillance and Reconnaissance]({{ site.baseurl }}/data/ACS2020_paper_39.pdf). Gheorghe Tecuci, Dorin Marcu, Mihai Boicu and Louis Kaiser.
+- Learning Hierarchical Task Networks with Landmarks and Numeric Fluents by Combining Symbolic and Numeric Regression.Morgan Fine-Morris, Bryan Auslander, Michael W. Floyd, Greg Pennisi, Héctor Muñoz-Avila and Kalyan Moy Gupta. 
+- A Measure of Visuospatial Skills: Painting the Big Picture.	Joel Michelson, Deepayan Sanyal, James Ainooson and Maithilee Kunda. 
+- Integrating Declarative Long-Term Memory Retrievals into Reinforcement Learning. Justin Li.
+- Toward Givenness Hierarchy Theoretic Natural Language Generation. Poulomi Pal and Tom Williams.
+- Computing Numeric Expectations for Cognitive Agents. Noah Reifsnyder and Hector Munoz-Avila. 
+- General Intelligence Requires Autonomous, Cognitive, Intentional Agents. Sean Kugele and Stan Franklin. 
+- Forgetting-Sensitive Referring Expression Generation for Integrated Robot Architectures. Tom Williams, Torin Johnson, Will Culpepper and Kellyn Larson. 
+- Dempster-Shafer Theoretic Learning of Indirect Speech Act Comprehension Norms. Ruchen Wen, Mohammed Aun Siddiqui and Thomas Williams. 
+- Analogy versus Rules in Cognitive Architecture.	Kenneth Forbus, Tom Hinrichs, Maxwell Crouse and Joseph Blass. 
+- Strategies for Visuospatial Reasoning: Experiments in Sufficiency and Diversity. James Ainooson, Joel Michelson, Deepayan Sanyal, Joshua Palmer and Maithilee Kunda. 
+- Implementing a Task-Oriented Time-Situated Agent.	Darsana Josyula, Anthony Herron and Kenneth M'Bale. 
+- Anticipatory Thinking: A New Frontier for Automated Planning.	Adam Amos-Binks, Dustin Dannenhauer, Gene Brewer and Rogelio E. Cardona-Rivera. 
+- Adaptive Event Retrieval for Episodic Memory.	Colm Flanagan and Claude Sammut. 
+- Towards Goal Inference for Human-Robot Collaboration. Shree Gotteti, Matthew Molineaux and Michael Cox. 
+- A Model and a Method to Study Agency, Adaptation and Adult Development. Shree Gotteti, Matthew Molineaux and Michael Cox. 
+
+
 
