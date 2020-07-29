@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-The Twenty-Sixth AAAI/SIGAI Doctoral Consortium (DC) will provide a group of PhD students with the opportunity to present, discuss, and explore their research interests and career objectives with established researchers in AI. Its objectives are to:
+The Twenty-Sixth AAAI/SIGAI Doctoral Consortium (DC) will be held virtually and provide a group of PhD students with the opportunity to present, discuss, and explore their research interests and career objectives with established researchers in AI. Its objectives are to:
 - Provide a setting for students to receive feedback on their current research and guidance on future research directions
 - Develop a supportive community of scholars and a spirit of collaborative research
 - Support a new generation of researchers by offering advice about academic, research, industrial, and nontraditional career paths
