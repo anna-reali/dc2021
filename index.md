@@ -11,3 +11,11 @@ The Twenty-Sixth AAAI/SIGAI Doctoral Consortium (DC) will provide a group of PhD
 
 For additional information (e.g., application procedures) please refer to the call for applications on the [AAAI-21 website](https://aaai.org/Conferences/AAAI-21/aaai21dccall/).
 
+
+### Important dates
+| Applications due       | September 18, 2020     |
+| :------------- | :----------: | 
+| Acceptance Notifications   | October 16, 2020 |
+| Camera-Ready Due: | November 20, 2020 |
+| Doctoral Consortium | February 2-3, 2021 |
+| AAAI-21 | February 4-9, 2021|
