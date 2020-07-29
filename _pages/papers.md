@@ -6,7 +6,7 @@ permalink: /papers/
 This page is still being updated.
 
 ## Long talks
-- The Problem with Problems. Michael Cox. [paper]({{ site.baseurl }}/data/ACS2020_paper_1.pdf)
+- [The Problem with Problems]({{ site.baseurl }}/data/ACS2020_paper_1.pdf). Michael Cox. 
 - [A Broader Range for 'Meaning the Same Thing': Human Against Machine on Hard Paraphrase Detection Tasks]({{ site.baseurl }}/data/ACS2020_paper_28.pdf). Jamie Macbeth, Ella Chang, Yining Hua, Gin Chen, Sandra Grandic, and Winnie Zheng.
 - [Goal Elicitation Planning: Reasoning and Acting to Reveal Another Agent's Goal]({{ site.baseurl }}/data/ACS2020_paper_2.pdf). Adam Amos-Binks and Rogelio E.Cardona-Rivera.
 - [Characterizing an Analogical Concept Memory for Architectures Implementing the Common Model of Cognition]. Shiwali Mohan, Matthew Klenk, Matthew Shreve, Kent Evans, Aaron Ang, and John Maxwell.
@@ -16,7 +16,8 @@ This page is still being updated.
 - [Learning Procedures by Augmenting Sequential Pattern Mining with Planning Knowledge]({{ site.baseurl }}/data/ACS2020_paper_26.pdf). Melinda Gervasio and Karen Myers. 
 - [Recognizing the Goals of Uninspectable Agents]({{ site.baseurl }}/data/ACS2020_paper_17.pdf). Irina Rabkina, Pavan Kantharaju, Jason Wilson, Mark Roberts, Kenneth Forbus, and Laura Hiatt.
 - [Learning Hybrid Models for Variable Impedance Control of Changing-Contact Manipulation Tasks]({{ site.baseurl }}/data/ACS2020_paper_30.pdf). Saif Sidhik, Mohan Sridharan, and Dirk Ruiken.
-
+- [Neurosymbolic AI for Situated Language Understanding]({{ site.baseurl }}/data/ACS2020_paper_14.pdf). Nikhil Krishnaswamy and James Pustejovsky.
+- [Optimizing Human Performance using Individualized Computational Models of Learning]({{ site.baseurl }}/data/ACS2020_paper_23.pdf). Christopher Maclellan, Kimberly Stowers, and Lisa Brady.
 
 
 ## Short talks
