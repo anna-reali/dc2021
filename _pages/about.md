@@ -11,7 +11,7 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2020/). 
 ## Program Chairs
 
 - [Matthew Klenk](http://www.matthewklenk.com/), Palo Alto Research Center
-- [Shiwali Mohan](www.shiwali.me), Palo Alto Research Center
+- [Shiwali Mohan](http://www.shiwali.me), Palo Alto Research Center
 
 ## Fundraising Chair
 
