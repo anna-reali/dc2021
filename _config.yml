@@ -19,8 +19,8 @@ avatar: /images/acs.png
 #
 
 # Includes an icon in the footer for each username you enter
-#footer-links:
-  dribbble:
+footer-links:
+#  dribbble:
   email: acogsys@gmail.com
 #  facebook:
 #  flickr:
