@@ -41,16 +41,16 @@ This page is still being updated.
 - [Integrating Declarative Long-Term Memory Retrievals into Reinforcement Learning]({{ site.baseurl }}/data/ACS2020_paper_35.pdf). Justin Li.
 - [Toward Givenness Hierarchy Theoretic Natural Language Generation]({{ site.baseurl }}/data/ACS2020_paper_4.pdf). Poulomi Pal and Tom Williams.
 - [Computing Numeric Expectations for Cognitive Agents]({{ site.baseurl }}/data/ACS2020_paper_12.pdf). Noah Reifsnyder and Hector Munoz-Avila. 
-- General Intelligence Requires Autonomous, Cognitive, Intentional Agents. Sean Kugele and Stan Franklin. 
-- Forgetting-Sensitive Referring Expression Generation for Integrated Robot Architectures. Tom Williams, Torin Johnson, Will Culpepper and Kellyn Larson. 
-- Dempster-Shafer Theoretic Learning of Indirect Speech Act Comprehension Norms. Ruchen Wen, Mohammed Aun Siddiqui and Thomas Williams. 
-- Analogy versus Rules in Cognitive Architecture.	Kenneth Forbus, Tom Hinrichs, Maxwell Crouse and Joseph Blass. 
-- Strategies for Visuospatial Reasoning: Experiments in Sufficiency and Diversity. James Ainooson, Joel Michelson, Deepayan Sanyal, Joshua Palmer and Maithilee Kunda. 
-- Implementing a Task-Oriented Time-Situated Agent.	Darsana Josyula, Anthony Herron and Kenneth M'Bale. 
-- Anticipatory Thinking: A New Frontier for Automated Planning.	Adam Amos-Binks, Dustin Dannenhauer, Gene Brewer and Rogelio E. Cardona-Rivera. 
-- Adaptive Event Retrieval for Episodic Memory.	Colm Flanagan and Claude Sammut. 
-- Towards Goal Inference for Human-Robot Collaboration. Shree Gotteti, Matthew Molineaux and Michael Cox. 
-- A Model and a Method to Study Agency, Adaptation and Adult Development. Shree Gotteti, Matthew Molineaux and Michael Cox. 
+- [General Intelligence Requires Autonomous, Cognitive, Intentional Agents]({{ site.basurl }}/data/ACS2020_paper_19.pdf). Sean Kugele and Stan Franklin. 
+- [Forgetting-Sensitive Referring Expression Generation for Integrated Robot Architectures]({{ site.baseurl }}/data/ACS2020_paper_36.pdf). Tom Williams, Torin Johnson, Will Culpepper and Kellyn Larson. 
+- [Dempster-Shafer Theoretic Learning of Indirect Speech Act Comprehension Norms]({{ site.baseurl }}/data/ACS2020_paper_7.pdf). Ruchen Wen, Mohammed Aun Siddiqui and Thomas Williams. 
+- [Analogy versus Rules in Cognitive Architecture]({{ site.baseurl }}/data/ACS2020_paper_13.pdf).	Kenneth Forbus, Tom Hinrichs, Maxwell Crouse and Joseph Blass. 
+- [Strategies for Visuospatial Reasoning: Experiments in Sufficiency and Diversity]({{ site.baseurl }}/data/ACS2020_paper_33.pdf). James Ainooson, Joel Michelson, Deepayan Sanyal, Joshua Palmer and Maithilee Kunda. 
+- [Implementing a Task-Oriented Time-Situated Agent]({{ site.baseurl }}/data/ACS2020_paper_32.pdf).	Darsana Josyula, Anthony Herron and Kenneth M'Bale. 
+- [Anticipatory Thinking: A New Frontier for Automated Planning]({{ site.baseurl }}/data/ACS2020_paper_21.pdf).	Adam Amos-Binks, Dustin Dannenhauer, Gene Brewer and Rogelio E. Cardona-Rivera. 
+- [Adaptive Event Retrieval for Episodic Memory]({{ site.baseurl }}/data/ACS2020_paper_22.pdf).	Colm Flanagan and Claude Sammut. 
+- [Towards Goal Inference for Human-Robot Collaboration]({{ site.baseurl }}/data/ACS2020_paper_24.pdf). Shree Gotteti, Matthew Molineaux and Michael Cox. 
+- [A Model and a Method to Study Agency, Adaptation and Adult Development]({{ site.baseurl }}/data/ACS2020_paper_34). Roger Gould. 
 
 
 
