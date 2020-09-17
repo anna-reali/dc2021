@@ -13,6 +13,7 @@ The AAAI doctoral consortium is organized by senior members of the AI research c
 
 ### Program Committee
 Alessandro Antonucci
+
 David Barbella
 Andre	Barreto
 Ana	Bazzan
