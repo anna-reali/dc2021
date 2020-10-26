@@ -8,7 +8,7 @@ The AAAI doctoral consortium is organized by senior members of the AI research c
 
 ### Chairs
 - [Shiwali Mohan](http://www.shiwali.me), Palo Alto Research Center, USA
-- [Anna Helena Reali Costa](https://pcs.usp.br/anna/) Escola Politécnica of the Universidade de São Paulo, Brazil
+- [Anna Helena Reali Costa](https://pcs.usp.br/anna/) Universidade de São Paulo, Brazil
 
 
 ### Program Committee
@@ -40,7 +40,6 @@ The AAAI doctoral consortium is organized by senior members of the AI research c
 - Felipe Leno da Silva
 - Justin	Li
 - Ana Carolina	Lorena
-- Tengfei	Ma
 - Marco	Maratea
 - Nicholas	Mattei
 - Denis	Mauá
@@ -62,9 +61,7 @@ The AAAI doctoral consortium is organized by senior members of the AI research c
 - Matthijs	Spaan
 - Mohan	Sridharan
 - Biplav	Srivastava
-- Silvio	Stanzani
 - Sebastian	Stein
 - Lisa	Torrey
 - Peter	Vamplew
-- Kommy	Weldemariam
 - Lexing	Xie
