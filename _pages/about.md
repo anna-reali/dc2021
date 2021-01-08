@@ -7,8 +7,10 @@ permalink: /about/
 The AAAI doctoral consortium is organized by senior members of the AI research community.
 
 ### Chairs
-- [Shiwali Mohan](http://www.shiwali.me), Palo Alto Research Center, USA
-- [Anna Helena Reali Costa](https://pcs.usp.br/anna/) Escola Politécnica of the Universidade de São Paulo, Brazil
+- Program chair: [Shiwali Mohan](http://www.shiwali.me), Palo Alto Research Center, USA
+- Program co-chair: [Anna Helena Reali Costa](https://pcs.usp.br/anna/) Escola Politécnica of the Universidade de São Paulo, Brazil
+- Funding chair: [Rogelio E. Cardona-Rivera](http://www.rogel.io/) School of Computing, University of Utah
+
 
 
 ### Program Committee
