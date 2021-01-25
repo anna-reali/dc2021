@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Monday, August 10th"
+title:  "Tuesday, February 2nd"
 permalink: /day1/
 ---
 
