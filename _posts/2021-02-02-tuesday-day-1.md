@@ -20,3 +20,15 @@ Anna Helena Reali Costa and Shiwali Mohan
 
 9:30 am - 10:00 am, Break 
 -----
+
+10:00 am - 11:00 am, Session 2
+-----
+1. Artificial Intelligence and Machine Learning forautonomous agents that learn to plan and operatein unpredictable dynamic environments. \
+   Speaker: Leonardo Lamana, Mentor: Felipe Meneguzzi, Buddy: Sagir Muhammad Yusuf
+2. Constraint-Driven Learning of Logic Programs. \
+   Speaker: Rolf Morel, Mentor: Luc De Raedt, Buddy: Hussain Chowdhry
+   
+11:00 am - 11:30 am, Break
+-----
+   
+  
