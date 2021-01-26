@@ -30,17 +30,20 @@ Computational Models of Narrative and Social Justice, Rogelio E. Cardona-Rivera
 10:30 am - 11:00 am, Break and Interactions with the Speaker
 ----
 
-11:00 am - 12:00 am, Session 2
+11:00 am - 12:00 pm, Session 2
 -----
 1. Artificial Intelligence and Machine Learning forautonomous agents that learn to plan and operatein unpredictable dynamic environments. \
    Speaker: Leonardo Lamana, Mentor: Felipe Meneguzzi, Buddy: Sagir Muhammad Yusuf
 2. Screening for Depressed Individuals by Using Multimodal Social Media Data. \
    Speaker: Paulo Mann, Mentor: Maria Chang, Buddy: Preeti Ramaraj
    
-12:30 pm - 1:00 pm, Break and Interactions with the Speakers
+12:00 pm - 12:30 pm, Break and Interactions with the Speakers
 -----
 
-1:00 pm - 2:00 pm, Introductions and DC Mixer
+12:30 pm - 1:30 pm, Introductions and DC Mixer
+----
+
+1:30 pm - 2:00 pm, Break
 ----
 
 2:00 pm - 3:30 pm, Session 3
