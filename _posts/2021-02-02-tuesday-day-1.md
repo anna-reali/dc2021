@@ -34,8 +34,8 @@ Computational Models of Narrative and Social Justice, Rogelio E. Cardona-Rivera
 -----
 1. Artificial Intelligence and Machine Learning forautonomous agents that learn to plan and operatein unpredictable dynamic environments. \
    Speaker: Leonardo Lamana, Mentor: Felipe Meneguzzi, Buddy: Sagir Muhammad Yusuf
-2. Constraint-Driven Learning of Logic Programs. \
-   Speaker: Rolf Morel, Mentor: Luc De Raedt, Buddy: Hussain Chowdhry
+2. Screening for Depressed Individuals by Using Multimodal Social Media Data. \
+   Speaker: Paulo Mann, Mentor: Maria Chang, Buddy: Preeti Ramaraj
    
 12:30 pm - 1:00 pm, Break and Interactions with the Speakers
 -----
