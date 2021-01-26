@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Wednesday, February 3rd"
