@@ -37,7 +37,31 @@ Computational Models of Narrative and Social Justice, Rogelio E. Cardona-Rivera
 2. Constraint-Driven Learning of Logic Programs. \
    Speaker: Rolf Morel, Mentor: Luc De Raedt, Buddy: Hussain Chowdhry
    
-11:00 am - 11:30 am, Break
+12:30 pm - 1:00 pm, Break and Interactions with the Speakers
 -----
+
+1:00 pm - 2:00 pm, Introductions and DC Mixer
+----
+
+2:00 pm - 3:30 pm, Session 3
+----
+1. A Computational Approach to Sign Language Understanding \
+   Speaker: Tejaswini Ananthanarayana, Mentor: TBD, Buddy: Alireza Ghods
+2. How Human Centered AI Will Contribute Towards Intelligent Gaming Systems \
+   Speaker: Yilei Zeng, Mentor: Mark O. Riedl, Buddy: Mehrnoosh Mirtaheri
+3. Perception Beyond Sensors Under Uncertainty
+   Speaker: Masha Itkina, Mentor: Sven Koenig, Buddy: Ivan Stelmakh
+   
+3:30 pm - 4:00 pm, Break and Interactions with the Speakers
+----
+
+4:00 pm - 5:30 pm, Career Panel
+----
+
+"What do professional scientists do?" Interactions with Yolanda Gil, Matthew Taylor, Sven Koenig, and Maria Chang.
+
+5:30 pm, Day 1 concludes
+----
+
    
   
