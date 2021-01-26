@@ -7,21 +7,30 @@ permalink: /day1/
 Please note that all times are Pacific Time (GMT-7). 
 
 
-7:00 am - 8:00 am, Welcome and Logistics 
+7:00 am - 7:30 am, Welcome and Logistics 
 ----
 Anna Helena Reali Costa and Shiwali Mohan
 
-8:00 am - 9:00 am, Session 1
+7:30 am - 9:00 am, Session 1
 -----
-1. Safety Assurance for Systems with Machine Learning Components. [[#talk-sidrane]](https://aaai2021-dc.slack.com/archives/C01KH3FTMSA)\
+1. Effective Clustering of scRNA-seq Data to Identify Biomarkers without User Input \
+   Speaker: Huzzain Chowdhury, Mentor: Jay Thiagrajan, Buddy: Rolf Morel
+2. Safety Assurance for Systems with Machine Learning Components. \
    Speaker: Chelsea Sidrane, Mentor: Matthijs T. J. Spaan, Buddy: Puspita Mazumdar
-2. Constraint-Driven Learning of Logic Programs. \
+3. Constraint-Driven Learning of Logic Programs. \
    Speaker: Rolf Morel, Mentor: Luc De Raedt, Buddy: Hussain Chowdhry
+   
+9:00 am - 9:30 am, Break and Interactions with the Speakers
+----
 
-9:30 am - 10:00 am, Break 
+9:30 am - 10:30 am, Invited Lecture
 -----
+Computational Models of Narrative and Social Justice, Rogelio E. Cardona-Rivera
 
-10:00 am - 11:00 am, Session 2
+10:30 am - 11:00 am, Break and Interactions with the Speaker
+----
+
+11:00 am - 12:00 am, Session 2
 -----
 1. Artificial Intelligence and Machine Learning forautonomous agents that learn to plan and operatein unpredictable dynamic environments. \
    Speaker: Leonardo Lamana, Mentor: Felipe Meneguzzi, Buddy: Sagir Muhammad Yusuf
