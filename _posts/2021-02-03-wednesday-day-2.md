@@ -25,7 +25,7 @@ Anna Helena Reali Costa and Shiwali Mohan
 9:30 am - 10:30 am, Break and Interactions with the Speakers
 ----
 
-10:30 am - 11:30 am, Session 2
+10:30 am - 12:00 am, Session 2
 -----
 1. Towards Fair, Equitable, and Efficient Peer Review \
    Speaker: Ivan Stelmakh, Mentor: Ece Kamar, Buddy: Masha Itkina
@@ -34,18 +34,18 @@ Anna Helena Reali Costa and Shiwali Mohan
 3. Relational Learning to Capture the Dynamics and Sparsity of Knowledge Graphs \
    Speaker: Mehrnoosh Mirtaheri, Mentor: Pin-Yu Chen, Buddy: Yilei Zeng
    
-11:30 am - 12:00 pm, Break and Interactions with the Speakers
+12:00 am - 12:300 pm, Break and Interactions with the Speakers
 ----
 
-12:30 pm - 1:30 pm, Session 3
+12:30 pm - 2:00 pm, Session 3
 ----
 1. Robots that Help Humans Build Better Mental Models of Robots \
    Speaker: Preeti Ramaraj, Mentor: Laura Hiatt, Buddy: Paulo Mann
 2. A Computational Approach to Sign Language Understanding \
    Speaker: Tejaswini Ananthanarayana, Mentor: Shirin Sohrabi, Buddy: Alireza Ghods
 3. Creating Interpretable Data-Driven Approaches for Remote Health Monitoring \
-   Speaker: Alireza Ghods, Mentor: Anirudh, Rushil, Buddy: Tejaswini Ananthanarayana
+   Speaker: Alireza Ghods, Mentor: Rushil Anirudh, Buddy: Tejaswini Ananthanarayana
   
 
-1:30 pm, DC concludes
+2:00 pm, DC concludes
 ----
