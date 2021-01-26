@@ -14,7 +14,7 @@ Anna Helena Reali Costa and Shiwali Mohan
 7:30 am - 9:00 am, Session 1
 -----
 1. Effective Clustering of scRNA-seq Data to Identify Biomarkers without User Input \
-   Speaker: Huzzain Chowdhury, Mentor: Jay Thiagrajan, Buddy: Rolf Morel
+   Speaker: Hussain Chowdhury, Mentor: Jay Thiagrajan, Buddy: Rolf Morel
 2. Safety Assurance for Systems with Machine Learning Components. \
    Speaker: Chelsea Sidrane, Mentor: Matthijs T. J. Spaan, Buddy: Puspita Mazumdar
 3. Constraint-Driven Learning of Logic Programs. \
