@@ -13,12 +13,14 @@ Anna Helena Reali Costa and Shiwali Mohan
 
 7:30 am - 9:00 am, Session 1
 -----
-1. Effective Clustering of scRNA-seq Data to Identify Biomarkers without User Input \
-   Speaker: Huzzain Chowdhury, Mentor: Jay Thiagrajan, Buddy: Rolf Morel
-2. Safety Assurance for Systems with Machine Learning Components. \
-   Speaker: Chelsea Sidrane, Mentor: Matthijs T. J. Spaan, Buddy: Puspita Mazumdar
-3. Constraint-Driven Learning of Logic Programs. \
-   Speaker: Rolf Morel, Mentor: Luc De Raedt, Buddy: Hussain Chowdhry
+1. Effect of Alterations on Face Recognition Algorithms \
+   Speaker: Puspita Mazumdar, Mentor: Bhavya Kailkhura, Buddy: Chelsea Sidrane
+2. Multi-agent Reinforcement Learning for Decentralized Coalition Formation Games \
+   Speaker: Kshitija Taywade, Mentor: Balaraman Ravindran, Buddy: Nazerke Rakhymbayeva
+3. Distributed Situation Awareness for Multi-agent Mission in Dynamic En-vironments: A Case Study of Multi-UAVs Wildfires Searching  \
+   Speaker: Sagir Muhammad Yusuf, Mentor: Biplav Srivastava, Buddy: Leonardo Lamanna
+4. Engagement Assessment for Robot-Assisted Therapy Adaptation for Children with ASD \
+   Speaker: Nazerke Rakhymbayeva, Mentor: Maria Gini, Buddy Kshitija Taywade
    
 9:00 am - 9:30 am, Break and Interactions with the Speakers
 ----
