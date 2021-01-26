@@ -45,8 +45,8 @@ Computational Models of Narrative and Social Justice, Rogelio E. Cardona-Rivera
 
 2:00 pm - 3:30 pm, Session 3
 ----
-1. A Computational Approach to Sign Language Understanding \
-   Speaker: Tejaswini Ananthanarayana, Mentor: TBD, Buddy: Alireza Ghods
+1. AI for Social Good: Between My Research and the Real World \
+   Speaker: Zheyuan Ryan Shi, Mentor: Shiwali Mohan, Buddy: Dario Guidotti
 2. How Human Centered AI Will Contribute Towards Intelligent Gaming Systems \
    Speaker: Yilei Zeng, Mentor: Mark O. Riedl, Buddy: Mehrnoosh Mirtaheri
 3. Perception Beyond Sensors Under Uncertainty
