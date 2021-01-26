@@ -41,8 +41,8 @@ Anna Helena Reali Costa and Shiwali Mohan
 ----
 1. Robots that Help Humans Build Better Mental Models of Robots \
    Speaker: Preeti Ramaraj, Mentor: Laura Hiatt, Buddy: Paulo Mann
-2. AI for Social Good: Between My Research and the Real World \
-   Speaker: Zheyuan Ryan Shi, Mentor: Shiwali Mohan, Buddy: Dario Guidotti
+2. A Computational Approach to Sign Language Understanding \
+   Speaker: Tejaswini Ananthanarayana, Mentor: Shirin Sohrabi, Buddy: Alireza Ghods
 3. Creating Interpretable Data-Driven Approaches for Remote Health Monitoring \
    Speaker: Alireza Ghods, Mentor: Anirudh, Rushil, Buddy: Tejaswini Ananthanarayana
   
