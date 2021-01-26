@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title:  "Tuesday, February 2nd"
+title:  "Wednesday, February 3rd"
 permalink: /day2/
 ---
 
