@@ -13,7 +13,7 @@ Anna Helena Reali Costa and Shiwali Mohan
 
 7:30 am - 9:30 am, Session 1
 -----
-1. Effect of Alterations on Face Recognition Algorithms \
+1. On Learning Deep Models with Imbalanced Data Distribution \
    Speaker: Puspita Mazumdar, Mentor: Bhavya Kailkhura, Buddy: Chelsea Sidrane
 2. Multi-agent Reinforcement Learning for Decentralized Coalition Formation Games \
    Speaker: Kshitija Taywade, Mentor: Balaraman Ravindran, Buddy: Nazerke Rakhymbayeva
@@ -28,11 +28,11 @@ Anna Helena Reali Costa and Shiwali Mohan
 10:00 am - 11:30 am, Session 2
 -----
 1. Towards Fair, Equitable, and Efficient Peer Review \
-   Speaker: Ivan Stelmakh, Mentor: Ece Kamar, Buddy: Masha Itkina
+   Speaker: Ivan Stelmakh, Mentor: Ece Kamar, Buddy: Yilei Zeng
 2. Verification and Repair of Neural Networks \
    Speaker: Dario Guidotti, Mentor: Eric Eaton, Buddy: Zheyuan Ryan Shi
 3. Relational Learning to Capture the Dynamics and Sparsity of Knowledge Graphs \
-   Speaker: Mehrnoosh Mirtaheri, Mentor: Pin-Yu Chen, Buddy: Yilei Zeng
+   Speaker: Mehrnoosh Mirtaheri, Mentor: Pin-Yu Chen, Buddy: Masha Itkina
    
 11:30 am - 12:00 pm, Break and Interactions with the Speakers
 ----
