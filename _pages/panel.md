@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Career Panel
-permalink: "/panelists/"
+permalink: "/panel/"
 ---
 
 {% for speaker in site.panelists %}
