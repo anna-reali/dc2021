@@ -25,7 +25,7 @@ Anna Helena Reali Costa and Shiwali Mohan
 
 9:30 am - 10:30 am, Invited Lecture
 -----
-Computational Models of Narrative and Social Justice, Rogelio E. Cardona-Rivera
+Computational Models of Narrative and Social Justice, [Rogelio E. Cardona-Rivera](http://www.rogel.io/)
 
 10:30 am - 11:00 am, Break and Interactions with the Speaker
 ----
@@ -61,7 +61,8 @@ Computational Models of Narrative and Social Justice, Rogelio E. Cardona-Rivera
 4:00 pm - 5:30 pm, Career Panel
 ----
 
-"What do professional scientists do?" Interactions with [Yolanda Gil](https://aaaidc.github.io/dc2021/panelists/gil/), [Matthew Taylor](https://aaaidc.github.io/dc2021/panelists/taylor/), [Sven Koenig](https://aaaidc.github.io/dc2021/panelists/koenig/), and [Maria Chang](https://aaaidc.github.io/dc2021/panelists/chang/).
+"What do professional scientists do? How do I become one?" \
+Interactions with [Yolanda Gil](https://aaaidc.github.io/dc2021/panelists/gil/), [Matthew Taylor](https://aaaidc.github.io/dc2021/panelists/taylor/), [Sven Koenig](https://aaaidc.github.io/dc2021/panelists/koenig/), and [Maria Chang](https://aaaidc.github.io/dc2021/panelists/chang/).
 
 5:30 pm, Day 1 concludes
 ----
