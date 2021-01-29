@@ -61,7 +61,7 @@ Computational Models of Narrative and Social Justice, Rogelio E. Cardona-Rivera
 4:00 pm - 5:30 pm, Career Panel
 ----
 
-"What do professional scientists do?" Interactions with Yolanda Gil, Matthew Taylor, Sven Koenig, and Maria Chang.
+"What do professional scientists do?" Interactions with [Yolanda Gil](https://aaaidc.github.io/dc2021/panelists/gil/), [Matthew Taylor](https://aaaidc.github.io/dc2021/panelists/taylor/), [Sven Koenig](https://aaaidc.github.io/dc2021/panelists/koenig/), and [Maria Chang](https://aaaidc.github.io/dc2021/panelists/chang/).
 
 5:30 pm, Day 1 concludes
 ----
