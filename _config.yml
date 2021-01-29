@@ -97,3 +97,9 @@ exclude:
   - README.md
   - CNAME
 
+collections:
+  speakers:
+    output: true
+  panelists:
+    output: true
+
