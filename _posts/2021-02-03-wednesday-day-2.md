@@ -39,12 +39,12 @@ Anna Helena Reali Costa and Shiwali Mohan
 
 12:00 pm - 1:30 pm, Session 3
 ----
-1. Robots that Help Humans Build Better Mental Models of Robots \
-   Speaker: Preeti Ramaraj, Mentor: Laura Hiatt, Buddy: Paulo Mann
-2. A Computational Approach to Sign Language Understanding \
+1. A Computational Approach to Sign Language Understanding \
    Speaker: Tejaswini Ananthanarayana, Mentor: Shirin Sohrabi, Buddy: Alireza Ghods
-3. Creating Interpretable Data-Driven Approaches for Remote Health Monitoring \
+2. Creating Interpretable Data-Driven Approaches for Remote Health Monitoring \
    Speaker: Alireza Ghods, Mentor: Rushil Anirudh, Buddy: Tejaswini Ananthanarayana
+3. Robots that Help Humans Build Better Mental Models of Robots \
+   Speaker: Preeti Ramaraj, Mentor: Laura Hiatt, Buddy: Paulo Mann
   
 
 1:30 pm, DC concludes
