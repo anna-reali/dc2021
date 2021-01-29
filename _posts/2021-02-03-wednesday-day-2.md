@@ -45,7 +45,10 @@ Anna Helena Reali Costa and Shiwali Mohan
    Speaker: Alireza Ghods, Mentor: Rushil Anirudh, Buddy: Tejaswini Ananthanarayana
 3. Robots that Help Humans Build Better Mental Models of Robots \
    Speaker: Preeti Ramaraj, Mentor: Laura Hiatt, Buddy: Paulo Mann
+   
+1:30 pm, Break and Interactinos with the Speakers.
+----
   
 
-1:30 pm, DC concludes
+2:00 pm, DC concludes
 ----
