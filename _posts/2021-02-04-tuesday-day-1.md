@@ -4,7 +4,7 @@ title:  "Tuesday, February 2nd"
 permalink: /day1/
 ---
 
-Please note that all times are Pacific Time (GMT-7). 
+Please note that all times are Pacific Time (GMT-8). 
 
 
 7:00 am - 7:30 am, Welcome and Logistics 
