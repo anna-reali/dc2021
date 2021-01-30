@@ -46,7 +46,7 @@ Anna Helena Reali Costa and Shiwali Mohan
 3. Robots that Help Humans Build Better Mental Models of Robots \
    Speaker: Preeti Ramaraj, Mentor: Laura Hiatt, Buddy: Paulo Mann
    
-1:30 pm, Break and Interactinos with the Speakers.
+1:30 pm, Break and Interactions with the Speakers
 ----
   
 
